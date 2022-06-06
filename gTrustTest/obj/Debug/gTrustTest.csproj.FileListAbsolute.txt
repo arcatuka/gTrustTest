@@ -1,0 +1,14 @@
+C:\Users\hajda\source\repos\gTrustTest\gTrustTest\bin\Debug\gTrustTest.exe.config
+C:\Users\hajda\source\repos\gTrustTest\gTrustTest\bin\Debug\gTrustTest.exe
+C:\Users\hajda\source\repos\gTrustTest\gTrustTest\bin\Debug\gTrustTest.pdb
+C:\Users\hajda\source\repos\gTrustTest\gTrustTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hajda\source\repos\gTrustTest\gTrustTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hajda\source\repos\gTrustTest\gTrustTest\obj\Debug\gTrustTest.csproj.AssemblyReference.cache
+C:\Users\hajda\source\repos\gTrustTest\gTrustTest\obj\Debug\gTrustTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\hajda\source\repos\gTrustTest\gTrustTest\obj\Debug\gTrustTest.Form1.resources
+C:\Users\hajda\source\repos\gTrustTest\gTrustTest\obj\Debug\gTrustTest.Properties.Resources.resources
+C:\Users\hajda\source\repos\gTrustTest\gTrustTest\obj\Debug\gTrustTest.csproj.GenerateResource.cache
+C:\Users\hajda\source\repos\gTrustTest\gTrustTest\obj\Debug\gTrustTest.csproj.CoreCompileInputs.cache
+C:\Users\hajda\source\repos\gTrustTest\gTrustTest\obj\Debug\gTrustTest.csproj.CopyComplete
+C:\Users\hajda\source\repos\gTrustTest\gTrustTest\obj\Debug\gTrustTest.exe
+C:\Users\hajda\source\repos\gTrustTest\gTrustTest\obj\Debug\gTrustTest.pdb
